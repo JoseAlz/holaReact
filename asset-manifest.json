@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/holaReact/static/css/main.752c5e72.chunk.css",
+    "main.js": "/holaReact/static/js/main.cd341243.chunk.js",
+    "main.js.map": "/holaReact/static/js/main.cd341243.chunk.js.map",
+    "runtime-main.js": "/holaReact/static/js/runtime-main.370d61d7.js",
+    "runtime-main.js.map": "/holaReact/static/js/runtime-main.370d61d7.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/holaReact/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.60b73340.chunk.js": "/holaReact/static/js/2.60b73340.chunk.js",
+    "static/js/2.60b73340.chunk.js.map": "/holaReact/static/js/2.60b73340.chunk.js.map",
+    "static/js/3.b550ae1f.chunk.js": "/holaReact/static/js/3.b550ae1f.chunk.js",
+    "static/js/3.b550ae1f.chunk.js.map": "/holaReact/static/js/3.b550ae1f.chunk.js.map",
+    "index.html": "/holaReact/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/holaReact/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.752c5e72.chunk.css.map": "/holaReact/static/css/main.752c5e72.chunk.css.map",
+    "static/js/2.60b73340.chunk.js.LICENSE.txt": "/holaReact/static/js/2.60b73340.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/holaReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370d61d7.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.60b73340.chunk.js",
+    "static/css/main.752c5e72.chunk.css",
+    "static/js/main.cd341243.chunk.js"
+  ]
+}
